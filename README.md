@@ -1,4 +1,4 @@
-# cppLisp
+# cppLisp Copyright 2019 Richard Man richard@imagecraft.com
 A Lisp Interpreter Written in Modern C++ (C++11, C++14, Boost)
 
 Released under the MIT LICENSE
